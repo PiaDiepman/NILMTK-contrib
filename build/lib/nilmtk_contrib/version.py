@@ -1,2 +1,2 @@
-version = '0.1.2.dev1+git.0dd2ef5'
+version = '0.1.2.dev1+git.a5a1e8c'
 short_version = '0.1.2'

@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: nilmtk-contrib
-Version: 0.1.2.dev1+git.0dd2ef5
+Version: 0.1.2.dev1+git.a5a1e8c
 Summary: State-of-the-art algorithms for the task of energy disaggregation implemented using NILMTK's Rapid Experimentation API
 Home-page: https://github.com/nilmtk/nilmtk-contrib
 Author: NILMTK-contrib developers
